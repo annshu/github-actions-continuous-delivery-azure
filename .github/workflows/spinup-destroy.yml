@@ -14,7 +14,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: anshu-ttt-app
+  AZURE_WEBAPP_NAME: annshu-ttt-app
   #################################################
 
 jobs:
